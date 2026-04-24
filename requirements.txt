@@ -1,5 +1,5 @@
 requests
-anthropic
+google-generativeai
 pandas
 numpy
 scikit-learn
