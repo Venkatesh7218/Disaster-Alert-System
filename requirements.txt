@@ -1,0 +1,16 @@
+requests
+anthropic
+pandas
+numpy
+scikit-learn
+xgboost
+streamlit
+twilio
+deep-translator
+gtts
+python-dotenv
+schedule
+reportlab
+folium
+streamlit-folium
+elevenlabs

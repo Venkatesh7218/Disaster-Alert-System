@@ -24,6 +24,7 @@ disaster_alert/
 ### Step 1 — Fill in your API keys
 Edit the `.env` file and add your keys:
 - OpenWeatherMap: https://openweathermap.org/api
+- Anthropic Claude: https://console.anthropic.com
 - Twilio: https://twilio.com
 
 ### Step 2 — Run the Dashboard
